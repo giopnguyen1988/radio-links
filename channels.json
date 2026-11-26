@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-11-26T15:00:00Z",
+  "channels": {
+    "VOHAM610": "",
+    "VOHFM877": "",
+    "VOHFM925": "",
+    "FM956": "",
+    "FM999": "",
+    "CToFM937": "",
+    "HNiFM90": "",
+    "HNiFM96": "",
+    "QNhFM947": "https://live.baoquangninh.vn/qtvlive/qnr2.m3u8",
+    "QNhFM978": "https://live.baoquangninh.vn/qtvlive/qnr1.m3u8",
+    "DNgFM894": "",
+    "RadioVN": "https://stream-153.zeno.fm/4q7y9hvkp2zuv?zt=",
+    "RFI": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3"
+  }
+}
